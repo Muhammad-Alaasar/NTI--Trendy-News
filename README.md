@@ -1,10 +1,10 @@
 # News Task (Small Task)
-> This simple task to testing my programming skill by Node JS
 
+> #### Create a backend by node js and have it fetch data from news api and send it to frontend for display it
+> #### This simple task to testing my programming skill by Node JS
 ##### by _Muhammad Al-Aasar_
 
-
-> Create a backend by node js and have it fetch data from news api and send it to frontend for display it
+#
 
 ##
 ### Technologies
