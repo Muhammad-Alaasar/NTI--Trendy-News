@@ -3,10 +3,9 @@
 
 ##### by _Muhammad Al-Aasar_
 
-#
 
 > Create a backend by node js and have it fetch data from news api and send it to frontend for display it
-#
+
 ##
 ### Technologies
 ###
@@ -35,7 +34,7 @@ npm i
 
 Open browser at
 
->> To Add a Student
+
 ```sh
 https://localhost:3000
 ```
