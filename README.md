@@ -4,9 +4,8 @@
 > #### This simple task to testing my programming skill by Node JS
 ##### by _Muhammad Al-Aasar_
 
-#
+## 
 
-##
 ### Technologies
 ###
 - Node JS (Environment)
@@ -18,19 +17,19 @@
 
 ### Usage
 ###
-> First Step:
+> 1. First Step:
 
 Download project files or clone it
 ```sh
 https://github.com/Muhammad-Alaasar/NTI-Task--News.git
 ```
-> Second Step:
+> 2. Second Step:
 
 Open project folder in terminal or cmd and do it
 ```sh
 npm i
 ```
-> Third Step:
+> 3. Third Step:
 
 Open browser at
 
